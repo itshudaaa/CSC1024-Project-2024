@@ -1,0 +1,7 @@
+123,Apple,Red,2,8
+124,Banana,Yellow,3,50
+125,Orange,Orange,4,8
+126,Dragonfruit,Purple,12,52
+127,Kiwi,Green,10,10
+128,Pepper,Red,6,20
+129,Tangerine,Orange like,9.0,1
